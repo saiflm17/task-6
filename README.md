@@ -18,6 +18,6 @@
 
 - Now am changing the directory   cd task-6 .
 
-- Now am deploying a 
+- Now am deploying a static-cycle-website by using github pages .
 
-- After am creating some files index.html, news.html, cycle.html, contact.html, about.html and CSS and also am taking some images from google and am collecting source code from chatgpt .
+- After am creating some files index.html, news.html, cycle.html, contact.html, about.html and CSS, JS and also am taking some images from google and am collecting source code from chatgpt .
