@@ -48,4 +48,8 @@
 
 - After am deploying static-cycle-website by using github pages .
 
-- repository settings 
+- repository settings 🡢 pages 🡢 Enabled github pages .
+
+- select a main branch and root folder .
+
+- Live website link 
